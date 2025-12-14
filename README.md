@@ -40,7 +40,7 @@ cmake -S Huffman_coding -B Huffman_coding/build
 cmake --build Huffman_coding/build  
 cd Huffman_coding && ./Huffman_coding  
 
-## C_tricks/
-15 examples from above books (fair use/educational).
+## C_tricks
+15 examples from above books.
 See [C_tricks/README.md](C_tricks/README.md) for details.
 
