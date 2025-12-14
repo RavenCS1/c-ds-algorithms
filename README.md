@@ -5,7 +5,7 @@
 **Clean, efficient C implementations** from **CLRS (Cormen)**:
 
 ## 📺 **Must-Watch: Charles Cabergs "Advanced C"**  
-YouTube series — [Charles Cberg Advanced C](https://www.youtube.com/@CharlesCberg)
+YouTube series — [Charles Cabergs Advanced C](https://www.youtube.com/watch?v=g7CCaRwRVBQ&list=PL71Y0EmrppR0KyZvQWj63040UEzKQU7n8)
 
 ## 📚 **Recommended Books** (read **originals** in English!)
 - *Introduction to Algorithms* by Cormen et al. (CLRS) — **data structures source**  
